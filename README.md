@@ -311,8 +311,6 @@ The arc of the book:
 - Boxes labeled **Builder's note** give practical advice from production work. Boxes labeled **Pitfall** describe mistakes that are easy to make and expensive to find.
 - Code comments are deliberately verbose. They explain *why* a line exists, not just what it does, so the listings can be read on their own.
 
-*Patrick Campbell, Lake Zurich, Illinois, November 2026*
-
 <sub>[↑ Back to contents](#table-of-contents)</sub>
 
 ## Part I: Foundations
