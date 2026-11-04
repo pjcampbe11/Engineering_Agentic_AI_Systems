@@ -8,7 +8,7 @@
 
 RAG · Tool Use & MCP · Agent Design Patterns · Memory · Multi-Agent Systems · Optimization · Data · Evaluation · LLM-as-Judge · SWE-bench · Safety & Red-Teaming · Coding Agents · Proactive Agents
 
-**Patrick Campbell** · First Edition · November 2026
+**pjcampbe11** · First Edition · November 2026
 
 📄 [Download the PDF edition](Engineering_Agentic_AI_Systems_Patrick_Campbell.pdf)
 
@@ -16,13 +16,12 @@ RAG · Tool Use & MCP · Agent Design Patterns · Memory · Multi-Agent Systems 
 
 ---
 
-Copyright © 2026 Patrick Campbell. All rights reserved.
+Copyright © 2026 pjcampbe11. All rights reserved.
 
 The topic sequence of this book follows the publicly posted Fall 2026 syllabus of Stanford University's CS 329Z, *Engineering AI Agents*. This book is an independent study companion. It is not affiliated with, sponsored by, or endorsed by Stanford University or the course staff. All text, code listings, labs, and project materials are original. Papers and articles are discussed and cited; readers should consult the original works.
 
 Code listings are provided for educational use. Run any agent that executes code or shell commands inside a sandbox. Nothing in this book is legal advice.
 
-Contact: patcampbell82@gmail.com
 
 ---
 
